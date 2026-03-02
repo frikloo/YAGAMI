@@ -1,0 +1,16 @@
+{
+  "name": "discord-selfbot-multi-vc",
+  "version": "1.0.0",
+  "description": "A Discord selfbot that joins multiple voice channels",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.15.1",
+    "@discordjs/voice": "^0.16.1",
+    "dotenv": "^16.3.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
